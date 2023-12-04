@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hi there"
+    },
+    {
+      "question": "yoo",
+      "answer": "yo my dude"
+    },
+    {
+      "question": "i love you",
+      "answer": "i love you too"
+    },
+    {
+      "question": "hi",
+      "answer": "hi"
+    },
+    {
+      "question": "biscuit!",
+      "answer": "Do you want a biscuit?"
+    },
+    {
+      "question": "abdul",
+      "answer": "he is a boy"
+    },
+    {
+      "question": "My name is Mubarak",
+      "answer": " yes"
+    },
+    {
+      "question": "How old is kamsi",
+      "answer": "17"
+    },
+    {
+      "question": "how old is shalewa?",
+      "answer": "20"
+    },
+    {
+      "question": "Shalewa is Kamsi's best friend",
+      "answer": "who is shalewa"
+    },
+    {
+      "question": "how are you ",
+      "answer": "i am fineeeeeee"
+    },
+    {
+      "question": "sex is life",
+      "answer": "yeah it is"
+    }
+  ]
+}
