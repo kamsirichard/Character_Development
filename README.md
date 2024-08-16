@@ -1,2 +1,2 @@
 # ChatBot
-A simple self learning chatbot that learns from the user.
+A simple chatbot that learns from its user.
